@@ -8,10 +8,10 @@ private float circunferencia;
 diametro: radio por dos
 circunferencia pi por diametro  */
 
-    public Circulo(){
+    public Circulos(){
         System.out.println("No sirvo para nada");
     }
-    public Circulo(float radio,float area,float diametro,float circunferencia){
+    public Circulos(float radio,float area,float diametro,float circunferencia){
         this.radio=radio;
         this.diametro=diametro;
         this.circunferencia=circunferencia;
